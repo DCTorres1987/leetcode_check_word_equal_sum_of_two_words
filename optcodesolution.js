@@ -31,3 +31,6 @@ var isSumEqual = function(firstWord, secondWord, targetWord) {
 }; // end of function
 
 console.log(isSumEqual('acb','cba','cdb'));
+
+// Runtime: 80 ms, faster than 77.53% of JavaScript online submissions for Check if Word Equals Summation of Two Words.
+// Memory Usage: 38.8 MB, less than 14.10% of JavaScript online submissions for Check if Word Equals Summation of Two Words.
