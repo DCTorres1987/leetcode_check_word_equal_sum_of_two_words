@@ -23,3 +23,4 @@ if (parseInt(num1.join("")) + parseInt(num2.join("")) === parseInt(target.join("
 };
 
 console.log(isSumEqual('acb','cba','cdb'));
+
